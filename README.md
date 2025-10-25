@@ -7,7 +7,7 @@ A SwiftUI-based iOS application that displays a list of movies from TMDb (The Mo
 # Setup
 
 Clone the repository:
-git clone https://github.com/YourUsername/MovieApp.git
+git clone https://github.com/Anusha184/The-Movie-App.git
 cd MovieApp
 
 TMDb API Key
