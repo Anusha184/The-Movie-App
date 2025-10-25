@@ -11,9 +11,9 @@ git clone https://github.com/Anusha184/The-Movie-App.git
 cd MovieApp
 
 TMDb API Key
-Sign up at TMDb and obtain an API key.
-Add the key to secrets .plist file:
-private let apiKey = "API_KEY"
+.Sign up at TMDb and obtain an API key.
+.Add the key to secrets .plist file:
+.private let apiKey = "API_KEY"
 
 Install dependencies 
 
